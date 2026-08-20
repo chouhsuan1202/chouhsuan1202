@@ -1,6 +1,6 @@
 # HC
 
-Designer based in Amsterdam. One file, no backend, no tracking.
+Designer from Taiwan, based in Amsterdam. One file, no backend, no tracking.
 
 I build the tools I use every day, then keep deleting things until only what matters is left.
 
